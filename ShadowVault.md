@@ -54,3 +54,10 @@ A api made in python using `fastapi` which will allow the followings things
 5. File verification: The client will verify the integrity of the transferred files
 
 ### Diagram for testing
+
+```mermaid
+graph TD;
+    A[Server Case] --> B[Top Partition: Storage]
+    A --> C[Middle Partition: Motherboard]
+    A --> D[Bottom Partition: PSU]
+    
