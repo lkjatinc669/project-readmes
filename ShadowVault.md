@@ -52,3 +52,5 @@ A api made in python using `fastapi` which will allow the followings things
 3. Backup process: The client will initiate the backup process and monitor its progress
 4. File transfer: The client will transfer the selected files to the server
 5. File verification: The client will verify the integrity of the transferred files
+
+### Diagram for testing
